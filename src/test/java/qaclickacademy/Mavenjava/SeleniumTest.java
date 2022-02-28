@@ -24,4 +24,9 @@ public void element1() {
 	System.out.println("element");
 
 }
+@Test
+public void element1hh() {
+	System.out.println("element");
+
+}
 }
