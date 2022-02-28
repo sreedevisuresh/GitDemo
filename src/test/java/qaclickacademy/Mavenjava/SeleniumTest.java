@@ -19,4 +19,9 @@ public void element() {
 	System.out.println("element");
 
 }
+@Test
+public void element1() {
+	System.out.println("element");
+
+}
 }
